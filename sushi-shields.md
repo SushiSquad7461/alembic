@@ -2,7 +2,7 @@
 title: Sushi Shields
 layout: page
 ---
-<img src="sushi-shields-1">
+<img src="sushi-shields-1.png">
 
 Our team has been fortunate enough to have the resources necessary in order to sustain through these unprecedented times, and we are ready to give back to those who have kept us healthy. We wish to support medical personnel and essential workers in fighting COVID in any way we can. 
 
@@ -21,4 +21,4 @@ $25 and up: set of 3 exclusive Sushi Shields stickers
 
 You can donate at [this Gofundme](https://www.gofundme.com/f/6k3c6-sushi-shields-reusable-ppe-for-doctors?teamInvite=boZOR3l2BoXuFblUwLgxUpv0bG47emGVtISDsnp9yLiiqFMNMmx4h3F6vwCzNLd7).
 
-<iframe width="1870" height="720" src="https://www.youtube.com/embed/oAEGOlwv3QE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="935" height="360" src="https://www.youtube.com/embed/oAEGOlwv3QE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
