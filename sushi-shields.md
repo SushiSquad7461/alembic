@@ -2,7 +2,7 @@
 title: Sushi Shields
 layout: page
 ---
-<img src="assets/sushi-shields-1.png">
+<img src="/assets/sushi-shields-1.png">
 
 Our team has been fortunate enough to have the resources necessary in order to sustain through these unprecedented times, and we are ready to give back to those who have kept us healthy. We wish to support medical personnel and essential workers in fighting COVID in any way we can. 
 
