@@ -5,7 +5,7 @@ layout: page
 
 ### Offseason 2019
 
-In this season, we had X robot and Y accomplishments.
+In this season, we had X robot and Y accomplishments..
 
 ### Build season 2019
 
