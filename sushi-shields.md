@@ -8,6 +8,8 @@ Our team has been fortunate enough to have the resources necessary in order to s
 
 Currently, we are trying to mobilize and inspire the community to use affordable, accessible materials to create homemade PPE face shields, which we call Sushi Shields, through providing incentives and achievable goals for those who do. These face shields are constructed using inexpensive PETG Polycarbonate sheets and are designed to be both protective against large droplets and easily sanitizable.
 
+<img src="/assets/sushi-shields-2.png" width=360 height=360>
+
 ## Donation Tiers
 
 **$5 and up:** Donor name on virtual donation wall
