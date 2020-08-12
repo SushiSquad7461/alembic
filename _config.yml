@@ -127,8 +127,8 @@ navigation_header:
       url: https://www.instagram.com/sushisquad7461/
 - title: Code Camp
   url: https://docs.google.com/forms/d/e/1FAIpQLSdlLXXRE3JCQqvBxJwFzXJ14ssN8Nnjm6jBfKWgjmmMnoe0rg/viewform?usp=sf_link 
-
-#navigation_footer:
+- title: Sushi Shields
+  url: /sushi-shields
 #- title: "See you at Worlds"
 #  url: https://old.reddit.com/r/FRC/comments/bgmlpn/worlds_has_been_blessed_with_justin/
 
