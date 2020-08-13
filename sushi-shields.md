@@ -21,6 +21,8 @@ $25 and up: set of 3 exclusive Sushi Shields stickers
 
 **$100 and up:**  set of 3 Sushi Shields facemasks and large shoutout on virtual donation wall
 
-You can donate at [this Gofundme](https://www.gofundme.com/f/6k3c6-sushi-shields-reusable-ppe-for-doctors?teamInvite=boZOR3l2BoXuFblUwLgxUpv0bG47emGVtISDsnp9yLiiqFMNMmx4h3F6vwCzNLd7).
+You can donate at [this GoFundMe](https://www.gofundme.com/f/6k3c6-sushi-shields-reusable-ppe-for-doctors?teamInvite=boZOR3l2BoXuFblUwLgxUpv0bG47emGVtISDsnp9yLiiqFMNMmx4h3F6vwCzNLd7).
+
+Want to make your own? Check out our [resources](https://sushisquad.org/ppe-resources) for people interested in DIY Sushi Shields.
 
 <iframe width="360" height="360" src="https://www.youtube.com/embed/oAEGOlwv3QE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

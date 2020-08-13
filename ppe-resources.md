@@ -1,11 +1,10 @@
 ---
+title: Materials
 feature_text: |
   ## PPE RESOURCES
 feature_image: "/assets/faceshield.png"
 layout: page
 ---
-
-## Materials
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -54,7 +53,8 @@ Using non-latex bands is important when making face-shields. We recommend [this]
 
 ### Assembly Video
 
-Here's our instructional video for assembling a face-shield. (link coming soon.)
+Here's our instructional video for assembling a face-shield.
+<iframe width="360" height="360" src="https://www.youtube.com/embed/oAEGOlwv3QE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Written Instructions
 
