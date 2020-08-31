@@ -1,9 +1,7 @@
 ---
-title: Our history
+title: Milestones
 layout: page
 ---
-
-## Milestones
 
 ## 2019
 
