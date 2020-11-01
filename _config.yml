@@ -130,6 +130,7 @@ navigation_header:
 - title: Code Camp
   url: https://docs.google.com/forms/d/e/1FAIpQLSdlLXXRE3JCQqvBxJwFzXJ14ssN8Nnjm6jBfKWgjmmMnoe0rg/viewform?usp=sf_link 
 - title: Social Media
+  sublinks:
     - title: Instagram
       url: https://www.instagram.com/sushisquad7461/
     - title: GitHub
